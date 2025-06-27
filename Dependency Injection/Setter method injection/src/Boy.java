@@ -9,15 +9,18 @@
  * --------------------------------------------
  **/
 
-// Constructor injection
+// Setter method injection
 public class Boy {
-    // injecting the required dependencies through the class
-    // constructor when the object is being created
+    //  injecting a dependency after the object is created,
+    //  using a public setter method
     private Agreement agreement;
 
-    public Boy(Agreement agreement) {
+    public void setInjection(Agreement agreement) {
         this.agreement = agreement;
     }
+//    public void setAgreement(Agreement agreement) {
+//        this.agreement = agreement;
+//    }
 
     public void chatTest() {
         agreement.chat();
@@ -30,7 +33,9 @@ public class Boy {
     public static void main(String[] args) {
         Girl girl = new Girl();
 
-        Boy boy = new Boy(girl);
+        Boy boy = new Boy();
+        boy.setInjection(girl);
+
         boy.chatWithGirl();
     }
 }

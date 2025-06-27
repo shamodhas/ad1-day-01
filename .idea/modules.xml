@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Dependency Injection/Intro/Intro.iml" filepath="$PROJECT_DIR$/Dependency Injection/Intro/Intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loos Coupling/Loos Coupling.iml" filepath="$PROJECT_DIR$/Loos Coupling/Loos Coupling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dependency Injection/Property injection/Property injection.iml" filepath="$PROJECT_DIR$/Dependency Injection/Property injection/Property injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dependency Injection/Setter method injection/Setter method injection.iml" filepath="$PROJECT_DIR$/Dependency Injection/Setter method injection/Setter method injection.iml" />
     </modules>
   </component>
 </project>
