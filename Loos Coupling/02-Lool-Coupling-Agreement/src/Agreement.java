@@ -12,3 +12,22 @@
 public interface Agreement {
     void chat();
 }
+//
+//abstract class Hello {
+//    void helloH() {
+//
+//    }
+//}
+//
+//
+//
+//
+
+
+
+
+
+
+
+
+
