@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Loos Coupling/01-Tight-Coupling/01-Tight-Coupling.iml" filepath="$PROJECT_DIR$/Loos Coupling/01-Tight-Coupling/01-Tight-Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loos Coupling/02-Lool-Coupling-Agreement/02-Lool-Coupling-Agreement.iml" filepath="$PROJECT_DIR$/Loos Coupling/02-Lool-Coupling-Agreement/02-Lool-Coupling-Agreement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day-01.iml" filepath="$PROJECT_DIR$/Day-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loos Coupling/Loos Coupling.iml" filepath="$PROJECT_DIR$/Loos Coupling/Loos Coupling.iml" />
+    </modules>
+  </component>
+</project>
